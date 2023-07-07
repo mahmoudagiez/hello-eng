@@ -17,7 +17,6 @@ This is a temporary script file.
 import math 
 import csv
 import numbers
-from matplotlib.figure import Figure
 from numpy._typing import _CharLike_co
 from numpy.core.umath import empty
 from pandas.io import excel
