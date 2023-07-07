@@ -22,8 +22,7 @@ from numpy.core.umath import empty
 from pandas.io import excel
 import streamlit as st
 import numpy as np 
-import pandas as pd
-import seaborn as sns 
+import pandas as pd 
 import plotly.express as px
 st.markdown("""
 <style>
