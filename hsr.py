@@ -21,9 +21,6 @@ from numpy._typing import _CharLike_co
 from numpy.core.umath import empty
 from pandas.io import excel
 import streamlit as st
-
-
-import matplotlib.pyplot as plt
 import numpy as np 
 import pandas as pd
 import seaborn as sns 
