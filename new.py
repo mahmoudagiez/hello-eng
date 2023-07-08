@@ -4,7 +4,6 @@ import numbers
 from numpy._typing import _CharLike_co
 from numpy.core.umath import empty
 from pandas.io import excel
-from seaborn._core.properties import FontSize, MarkerPattern
 import streamlit as st
 
 
