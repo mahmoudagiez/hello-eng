@@ -19,12 +19,14 @@ st.markdown("""
 .css-x14sj0 {
             color:green
 }      
-.css-10trblm{
+.css-1mhsx42.esravye0{
             display: flex;
             justify-content: center;
             color:green
 
-            }                 
+            }  
+.css-1y4p8pa {
+  padding-left: 38rem; }                          
 </style>
             """, unsafe_allow_html=True)
 
