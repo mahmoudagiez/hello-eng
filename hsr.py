@@ -4,11 +4,6 @@ import numbers
 from numpy._typing import _CharLike_co
 from pandas.io import excel
 import streamlit as st
-from deta import Deta
-import matplotlib.pyplot as plt
-import numpy as np 
-import pandas as pd
-from streamlit.runtime.state import session_state
 st.markdown("""
 <style>
 .css-1n76uvr{
