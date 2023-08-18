@@ -31,5 +31,5 @@ st.markdown("""
             """, unsafe_allow_html=True)
 
 st.image("https://i.pinimg.com/originals/be/c5/f0/bec5f0649802d89f5ead8f9bc5d95718.png")
-st.write("step3:-")
-st.write("click this link https://trotrkr.com/show.php?l=0&u=1610772&id=56035 ")
+st.write("step1:-")
+st.write("click this link https://ouo.io/qiW6CF")
