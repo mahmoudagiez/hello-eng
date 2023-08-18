@@ -26,32 +26,10 @@ st.markdown("""
 
             }  
 .css-1y4p8pa {
-  padding-left: 38rem; }                          
+           padding-left: 38rem; }                          
 </style>
             """, unsafe_allow_html=True)
-<style>
-.css-1n76uvr{
-            width:1200px
-            
-} 
-.css-1y4p8pa{
-            max-width:none
-} 
-.css-fg4pbf{
-            color:green
-}
-.css-x14sj0 {
-            color:green
-}      
-.css-1mhsx42.esravye0{
-            display: flex;
-            justify-content: center;
-            color:green
 
-            }  
-.css-1y4p8pa {
-  padding-left: 38rem; }                          
-</style>
 st.image("https://i.pinimg.com/originals/be/c5/f0/bec5f0649802d89f5ead8f9bc5d95718.png")
 st.write("step3:-")
 st.write("click this link https://trotrkr.com/show.php?l=0&u=1610772&id=56035 ")
